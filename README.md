@@ -39,3 +39,14 @@ Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 * [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/)
 * [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3642096816/)
 * [Optimization Theory for Large Systems](https://www.amazon.com/Optimization-Theory-Large-Systems-Mathematics/dp/0486419991)
+
+## Teachers
+
+* [Andréa Cynthia Santos](http://losi.utt.fr/fr/_plugins/mypage/mypage/content/duhamela.html)
+* [Alexandre Salles da Cunha](http://homepages.dcc.ufmg.br/~acunha/)
+* [Alexandre Xavier Martins](http://www.icea.ufop.br/professores/alexandre_xavier_martins/)
+* [Cristian Prins](http://losi.utt.fr/fr/_plugins/mypage/mypage/content/prins.html)
+* [Geraldo Robson Mateus](http://homepages.dcc.ufmg.br/~mateus/)
+* [Luciana Buriol](http://www.inf.ufrgs.br/~buriol/)
+* [Sebastián Alberto Urrutia](http://homepages.dcc.ufmg.br/~surrutia/)
+* [Thiago Ferreira de Noronha](http://homepages.dcc.ufmg.br/~tfn/)
