@@ -39,6 +39,8 @@ Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 * [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/)
 * [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3642096816/)
 * [Optimization Theory for Large Systems](https://www.amazon.com/Optimization-Theory-Large-Systems-Mathematics/dp/0486419991)
+* [Algorithms](http://algs4.cs.princeton.edu/home/)
+* [Applied Mathematical Programming](http://web.mit.edu/15.053/www/)
 
 ## Teachers
 
@@ -47,6 +49,21 @@ Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 * [Alexandre Xavier Martins](http://www.icea.ufop.br/professores/alexandre_xavier_martins/)
 * [Cristian Prins](http://losi.utt.fr/fr/_plugins/mypage/mypage/content/prins.html)
 * [Geraldo Robson Mateus](http://homepages.dcc.ufmg.br/~mateus/)
+* [Jeff Erickson](http://jeffe.cs.illinois.edu/)
+* [Jon Kleinberg](http://www.cs.cornell.edu/home/kleinber/)
 * [Luciana Buriol](http://www.inf.ufrgs.br/~buriol/)
+* [Michael Trick](http://mat.gsia.cmu.edu/)
+* [Paulo Feofiloff](https://www.ime.usp.br/~pf/)
 * [Sebastián Alberto Urrutia](http://homepages.dcc.ufmg.br/~surrutia/)
 * [Thiago Ferreira de Noronha](http://homepages.dcc.ufmg.br/~tfn/)
+
+## Groups
+
+*Groups about Operational Research*
+
+* [LaPO](https://sites.google.com/site/lapoufmg/)
+* [LOSI](http://losi.utt.fr/fr/index.html)
+* [Matheon](http://www.matheon.de/)
+* [NEO](http://neo.lcc.uma.es/)
+* [RUTCOR](http://rutcor.rutgers.edu/)
+* [ORC](http://orc.mit.edu/)
