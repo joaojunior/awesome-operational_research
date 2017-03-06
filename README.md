@@ -66,4 +66,5 @@ Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 * [Matheon](http://www.matheon.de/)
 * [NEO](http://neo.lcc.uma.es/)
 * [RUTCOR](http://rutcor.rutgers.edu/)
+* [ORBrescia](http://or-brescia.unibs.it/)
 * [ORC](http://orc.mit.edu/)
