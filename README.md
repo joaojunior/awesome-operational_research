@@ -68,3 +68,4 @@ Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 * [RUTCOR](http://rutcor.rutgers.edu/), Rutgers University, United States
 * [ORBrescia](http://or-brescia.unibs.it/), Università di Brescia, Italy
 * [ORC](http://orc.mit.edu/), MIT, United States
+* [OR@Unibo](http://or.dei.unibo.it/), Università di Bologna, Italy
