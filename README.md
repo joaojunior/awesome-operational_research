@@ -61,10 +61,10 @@ Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 *Groups about Operational Research*
 
-* [LaPO](https://sites.google.com/site/lapoufmg/)
-* [LOSI](http://losi.utt.fr/fr/index.html)
-* [Matheon](http://www.matheon.de/)
-* [NEO](http://neo.lcc.uma.es/)
-* [RUTCOR](http://rutcor.rutgers.edu/)
-* [ORBrescia](http://or-brescia.unibs.it/)
-* [ORC](http://orc.mit.edu/)
+* [LaPO](https://sites.google.com/site/lapoufmg/), UFMG, Brazil
+* [LOSI](http://losi.utt.fr/fr/index.html), Université de Technologie de Troyes, France
+* [Matheon](http://www.matheon.de/), Berlin, Germany
+* [NEO](http://neo.lcc.uma.es/), Universidad de Malaga, Spain
+* [RUTCOR](http://rutcor.rutgers.edu/), Rutgers University, United States
+* [ORBrescia](http://or-brescia.unibs.it/), Università di Brescia, Italy
+* [ORC](http://orc.mit.edu/), MIT, United States
