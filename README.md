@@ -61,10 +61,40 @@ Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 *Groups about Operational Research*
 
-* [LaPO](https://sites.google.com/site/lapoufmg/)
-* [LOSI](http://losi.utt.fr/fr/index.html)
-* [Matheon](http://www.matheon.de/)
-* [NEO](http://neo.lcc.uma.es/)
-* [RUTCOR](http://rutcor.rutgers.edu/)
-* [ORBrescia](http://or-brescia.unibs.it/)
-* [ORC](http://orc.mit.edu/)
+* [LaPO](https://sites.google.com/site/lapoufmg/), UFMG, Brazil
+* [LOSI](http://losi.utt.fr/fr/index.html), Université de Technologie de Troyes, France
+* [Matheon](http://www.matheon.de/), Berlin, Germany
+* [NEO](http://neo.lcc.uma.es/), Universidad de Malaga, Spain
+* [RUTCOR](http://rutcor.rutgers.edu/), Rutgers University, United States
+* [ORBrescia](http://or-brescia.unibs.it/), Università di Brescia, Italy
+* [ORC](http://orc.mit.edu/), MIT, United States
+* [OR@Unibo](http://or.dei.unibo.it/), Università di Bologna, Italy
+
+## Resources
+
+### Learning Resources
+
+* [Free webinars on Operational Research topics](https://www.airoyoung.org/resources/euro-seminars)
+* [The Science of Better](http://www.scienceofbetter.co.uk/), from the U.K. OR Society
+* [Learn about O.R.](http://www.learnaboutor.co.uk/), from the U.K. OR Society
+
+### Code Examples and Libraries
+
+* [Tutorial on the CPLEX API](https://github.com/alberto-santini/cplex-example), in C++
+* [Implementation of the Adaptive Large Neighbourhood Search metaheuristic](https://github.com/alberto-santini/adaptive-large-neighbourhood-search), in C++
+* [Implementation of the Biased Random Key Genetic Algorithm metaheuristic](https://github.com/alberto-santini/biased-random-key-ga), in C++
+* [Implementation of a simple Genetic Algorithm framework](https://github.com/alberto-santini/simple-ga-cpp), in C++
+* [Library to solve Graph Colouring Problems and Max-Weight Stable Set Problems](https://github.com/heldstephan/exactcolors), in C
+* [LKH-3](http://www.akira.ruc.dk/~keld/research/LKH-3/), Helsgaun's implementation and extension of the popular Lin-Kernigan heuristic for routing problems
+* [Discorde](https://github.com/andremaravilha/discorde-tsp), a wrapper API for the popular TSP solver *Concorde*
+
+### O.R. Organisations
+
+* [EURO](https://www.euro-online.org/web/pages/1/home), the Association of European Operational Research Societies
+* [EUROYoung](https://euroyoung.github.io/), a group of young EURO researchers organising free events for other young researchers
+* [AIRO](https://www.airo.org/), the Italian O.R. Society
+* [AIROYoung](http://www.airoyoung.org/), the Youth Chapter of AIRO, organising a yearly free workshop and PhD school
+* [MTL-Students](https://www.mtl-students.com/), student chapters for O.R. students in Montreal, Canada
+* [The Operational Research Society](https://www.theorsociety.com/), United Kingdom
+* [ROADEF](https://www.google.com/search?q=roadef&ie=utf-8&oe=utf-8&client=firefox-b-ab), the French O.R. Society
+* [DORS](www.dorsnet.dk), the Danish O.R. Society
